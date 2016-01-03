@@ -2,6 +2,8 @@
 
 Materials for the Bayesian Methods in Astronomy workshop at AAS227
 
+View all the content [here](https://github.com/jakevdp/AAS227Workshop/blob/master/Index.ipynb)
+
 
 ## Requirements
 
