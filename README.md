@@ -13,13 +13,14 @@ For this workshop we will be using Python, and in particular *Python version 3.4
 
 - [NumPy](http://numpy.org) (Numerical Python) for efficient manipulation of array-based data
 - [SciPy](http://scipy.org) (Scientific Python) for optimization and other routines
+- [Pandas](http://pandas.pydata.org) for reading data files into arrays
 - [Matplotlib](http://matplotlib.org) for scientific visualization
 - [IPython notebook](http://ipython.org) as an interactive computing environment
 
 To install these dependencies, I *highly* recommend using the [miniconda](http://conda.pydata.org/miniconda.html) Python installer *(be sure to download the Python 3.5 version of miniconda)*. Once this is installed, run the following commands in your terminal:
 
 ```
-$ conda install numpy scipy matplotlib ipython-notebook pip
+$ conda install numpy scipy pandas matplotlib ipython-notebook pip
 ```
 
 On top of these prerequisites, we will be introducing two relatively lightweight packages designed to enable efficient Bayesian computation in Python.
