@@ -1,6 +1,9 @@
-# AAS227Workshop
+# Bayesian Methods in Astronomy
 
-Materials for the Bayesian Methods in Astronomy workshop at AAS227
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.50993.svg)](http://dx.doi.org/10.5281/zenodo.50993)
+
+
+Materials for the Bayesian Methods in Astronomy workshop at the 227th American Astronomical Society meeting.
 
 View all the content [here](https://github.com/jakevdp/AAS227Workshop/blob/master/Index.ipynb)
 
